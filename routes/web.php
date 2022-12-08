@@ -25,7 +25,7 @@ Route::get('/', HomeComponent::class)->name('home');
 
 //  For Costumer
 Route::middleware(['auth:sanctum', 'verified'])->group(function () {
-    Route::get('/admin/dashboard', CostumerDashboardComponent::class)->name('admin.dashboard');
+    Route::get('/costumer/dashboard', CostumerDashboardComponent::class)->name('costumer.dashboard');
  });
 
 

@@ -1,3 +1,3 @@
 <div>
-    <h1>Provider Dashbaord</h1>
+    <h1>Provider Dashboard</h1>
 </div>
