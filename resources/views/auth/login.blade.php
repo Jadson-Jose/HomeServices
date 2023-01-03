@@ -131,3 +131,8 @@
         </div>
     </section>
 </x-base-layout>
+
+
+<div>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Impedit officiis reiciendis cum temporibus eligendi, doloremque exercitationem modi itaque qui minus placeat quisquam ab eius, a repellendus. Ipsa non sequi numquam.</p>
+</div>
