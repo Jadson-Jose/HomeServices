@@ -105,7 +105,7 @@
                                     </div>
                                     <div class="form-group row mb-0">
                                         <div class="col-md-10">
-                                            <a class="" href="{{ route('password.request') }}">Forgot Your
+                                            <a class="" href="{{ route('password.request') }}">Forgot Your your
                                                 Password?</a>
                                         </div>
                                     </div>
@@ -132,7 +132,3 @@
     </section>
 </x-base-layout>
 
-
-<div>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Impedit officiis reiciendis cum temporibus eligendi, doloremque exercitationem modi itaque qui minus placeat quisquam ab eius, a repellendus. Ipsa non sequi numquam.</p>
-</div>
